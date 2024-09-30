@@ -1,4 +1,4 @@
-This repository contains a Multiple Disease Prediction System that uses machine learning algorithms to predict the likelihood of various diseases based on patient data. The project aims to assist in early diagnosis of diseases such as Diabetes, Heart Disease, Liver Disease, and Kidney Disease using patient health parameters.
+This repository contains a Multiple Disease Prediction System that uses machine learning algorithms to predict the likelihood of various diseases based on patient data. The project aims to assist in early diagnosis of diseases such as Diabetes, Heart Disease, Parkingson's Disease using patient health parameters.
 
 Features
 Predicts the risk of multiple diseases from medical input data (age, blood pressure, glucose levels, etc.).
@@ -10,3 +10,4 @@ Python for model development.
 Scikit-learn for machine learning algorithms.
 Pandas and NumPy for data manipulation and analysis.
 Matplotlib and Seaborn for data visualization.
+Streamlit for Deployment of the ML model.
